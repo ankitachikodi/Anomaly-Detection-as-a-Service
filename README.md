@@ -1,16 +1,4 @@
-# Project-Group-2
-
-
 # Anomaly Detection as a Service
-
-
-
-### **Team Members:**
-
-- Ankita Chikodi                              
-- Arkil Thakkar                                 
-- Nehal Sharma                         
-- Shravani Pande
 
 
 ### **Project Description:**
@@ -125,7 +113,3 @@ The new data is sent through the Kafka producer in chunks which is received by S
 
 - Spark 
   ./spark-submit.sh '--jars spark-streaming-kafka-0-8-assembly_2.11-2.3.3.jar pyspark-shell Spark_Log_mining.py
-
-
-
-
